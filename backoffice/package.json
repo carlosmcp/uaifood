@@ -25,7 +25,7 @@
     "@nestjs/microservices": "^6.4.0",
     "@nestjs/mongoose": "^6.1.2",
     "@nestjs/platform-express": "^6.0.0",
-    "class-transformer": "^0.2.3",
+    "class-transformer": "^0.3.1",
     "class-validator": "^0.9.1",
     "jsonwebtoken": "^8.5.1",
     "mongoose": "^5.6.2",
